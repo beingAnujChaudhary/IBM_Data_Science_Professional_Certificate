@@ -14,7 +14,6 @@ This repository/document highlights my successful completion of the **IBM Data S
 
 ## Verification
 
-* **Credential ID:** `[Your Credential ID]`
 * **Verify at:** <a href="https://coursera.org/verify/professional-cert/9KRNB9BJJUE5">Coursera</a>
 
 ---
