@@ -7,15 +7,15 @@ This repository/document highlights my successful completion of the **IBM Data S
 
 **Issued by:** IBM
 **Platform:** Coursera / edX (Specify which platform you used)
-**Completed by:** [Your Name]
-**Date of Completion:** [Date Completed, e.g., May 2025]
+**Completed by:** Anuj Chaudhary
+**Date of Completion:** 19th March 2025
 
 ---
 
 ## Verification
 
 * **Credential ID:** `[Your Credential ID]`
-* **Verify at:** [`[Link to Your Credential on Coursera/edX/Credly]`]
+* **Verify at:** <a href="https://coursera.org/verify/professional-cert/9KRNB9BJJUE5">Coursera</a>
 
 ---
 
@@ -76,10 +76,9 @@ This Professional Certificate consists of the following courses (list may vary s
   </p>
 
 ---
-
+<!---
 ## Projects (Optional Section)
 
-*(This section is optional. If you have specific projects from the certificate hosted on GitHub, you can list them here. Otherwise, you can remove this section or keep it general.)*
 
 Throughout the certificate, I completed several hands-on labs and projects, including:
 
@@ -88,15 +87,15 @@ Throughout the certificate, I completed several hands-on labs and projects, incl
 * **Applied Data Science Capstone Project: [Your Capstone Project Title]** - ([Link to Your Capstone Project Repository]) - A brief overview of the problem, methodology, and results.
 
 ---
-
+--->
 ## My Learning Journey & Next Steps (Optional Section)
 
-*(This is a space for a brief personal reflection.)*
 
-Completing the IBM Data Science Professional Certificate has been a significant step in my data science journey. I particularly enjoyed [mention a specific aspect or course] and found the hands-on labs invaluable for practical learning.
+Completing the IBM Data Science Professional Certificate has been a significant step in my data science journey. I particularly enjoyed doing analysis of data and found the hands-on labs invaluable for practical learning.
 
+<!---- 
 Moving forward, I aim to [mention your future goals, e.g., "apply these skills in real-world projects," "explore advanced topics like Deep Learning," "seek opportunities in data analytics/data science roles"].
 
 ---
-
+---->
 Thank you for visiting! Feel free to explore my projects or connect with me.
