@@ -6,7 +6,7 @@
 This repository/document highlights my successful completion of the **IBM Data Science Professional Certificate**, a comprehensive program designed to equip aspiring data scientists with the essential skills and tools required for a career in data science.
 
 * **Issued by:** IBM
-* **Platform:** Coursera / edX (Specify which platform you used)
+* **Platform:** Coursera 
 * **Completed by:** Anuj Chaudhary
 * **Date of Completion:** 19th March 2025
 
